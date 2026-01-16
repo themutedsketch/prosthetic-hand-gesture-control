@@ -1,4 +1,3 @@
-# prosthetic-hand-gesture-control
 # Prosthetic Hand with Gesture Control
 
 An EMG and OpenCV-based prosthetic hand system designed to interpret muscle signals for intuitive and natural gesture control.
