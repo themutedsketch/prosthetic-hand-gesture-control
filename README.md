@@ -34,7 +34,10 @@ EMG signals are captured, processed, and translated into finger movements using 
 ---
 
 ## 📷 Project Images
-*(Add prototype and block diagram images here)*
+<img width="1153" height="656" alt="Screenshot 2026-01-16 184336" src="https://github.com/user-attachments/assets/05961445-1beb-44d3-b7bf-9e3843098bed" />
+<img width="1153" height="647" alt="Screenshot 2026-01-16 184353" src="https://github.com/user-attachments/assets/9f164d9d-e8a1-4ca1-904c-202de4e33ae5" />
+<img width="1149" height="657" alt="Screenshot 2026-01-16 184411" src="https://github.com/user-attachments/assets/0b3b5b94-9c33-43cc-b939-81909684fc0c" />
+
 
 ---
 
